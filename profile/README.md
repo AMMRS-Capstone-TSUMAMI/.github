@@ -1,5 +1,5 @@
 <h1 align="center">Aloha! Welcome to tsUmami, our meal planning project</h1>
-<h3 align="center">⛰️⛰️🌱🌺Developed by: Ashley Martinez, Matthew Grayson, Miguel Guzman, and Shaquielle Robbins 󠁵󠁳󠁨󠁩󠁿🌊🏄🤙🏼</h3>
+<h3 align="center">⛰️⛰️🌱🌺Developed by: Ashley Martinez, Matthew Grayson, Miguel Guzman, Ryan Yoshimura and Shaquielle Robbins 󠁵󠁳󠁨󠁩󠁿🌊🏄🤙🏼</h3>
 
 
 🕹️👾 We are currently working on: [tsUmami](https://github.com/RSKYoshi/RSKYoshi.github.io) <br><br>🎮&nbsp;[click here to see it!](https://rskyoshi.github.io/konami-code)
