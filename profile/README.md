@@ -22,4 +22,4 @@
 
 
 
-<h3 display="inline-block" align="right">Mahalo, and have a nice day! 👋</h3>
+<br><br><br><br><br><br><br><h3 align="left">Mahalo, and have a nice day! 👋</h3>
