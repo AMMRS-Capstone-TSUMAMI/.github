@@ -3,7 +3,7 @@
 
 
 
-🕹️👾 Our project code: [tsUmami](https://github.com/AMMRS-Capstone-TSUMAMI/tsumami-jalopy) <br><br>🎮&nbsp;[click to see our website!](https://www.tsumami.cooking:8080/landing)
+🕹️👾 Our project code: [click here for our github repo](https://github.com/AMMRS-Capstone-TSUMAMI/tsumami-jalopy) <br><br>🎮&nbsp;[click here to visit tsUmami](https://www.tsumami.cooking:8080/landing)
 
 🌱 Always learning and applying new techniques.
 
