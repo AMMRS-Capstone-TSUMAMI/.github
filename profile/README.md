@@ -2,8 +2,8 @@
 <h3 align="center">⛰️⛰️🌱🌺Developed by: Ashley Martinez, Matthew Grayson, Miguel Guzman, Ryan Yoshimura and Shaquielle Robbins 󠁵󠁳󠁨󠁩󠁿🌊🏄🤙🏼</h3>
 
 
-
-🕹️👾 Our project code: [click here for our github repo](https://github.com/AMMRS-Capstone-TSUMAMI/tsumami-jalopy) <br><br>🎮&nbsp;[click here to visit tsUmami](https://www.tsumami.cooking:8080/landing)
+🎮&nbsp;[click here to visit tsUmami](https://www.tsumami.cooking:8080/landing) <br><br>
+🕹️👾 Our project code: [click here for our github repo](https://github.com/AMMRS-Capstone-TSUMAMI/tsumami-jalopy) 
 
 🌱 Always learning and applying new techniques.
 
